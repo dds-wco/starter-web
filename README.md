@@ -9,3 +9,6 @@ This repository is mainly for learning purpose and the repository is actually pu
 
 ## Deployment
 This is a starter web project forked into the repository so you can also
+
+###Copyright
+2020 DSL as listed
