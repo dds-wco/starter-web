@@ -1,1 +1,0 @@
-This is level 2 file Screener provides 10 years financial data of listed Indian companies. It provides tools to find and analyse new stock ideas.
