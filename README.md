@@ -11,7 +11,7 @@ This repository is mainly for learning purpose and the repository is actually pu
 This is a starter web project forked into the repository so you can also
 
 ###Copyright
-2020 DSL as listed
+2020 DSL as listed all rights reserved
 
 ###User
 For Public use
